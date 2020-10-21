@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gbpages_practice/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gbpages_practice/static/js/main.25538ee4.chunk.js",
-    "main.js.map": "/gbpages_practice/static/js/main.25538ee4.chunk.js.map",
+    "main.js": "/gbpages_practice/static/js/main.b5831cd1.chunk.js",
+    "main.js.map": "/gbpages_practice/static/js/main.b5831cd1.chunk.js.map",
     "runtime-main.js": "/gbpages_practice/static/js/runtime-main.34892078.js",
     "runtime-main.js.map": "/gbpages_practice/static/js/runtime-main.34892078.js.map",
     "static/js/2.a751668b.chunk.js": "/gbpages_practice/static/js/2.a751668b.chunk.js",
     "static/js/2.a751668b.chunk.js.map": "/gbpages_practice/static/js/2.a751668b.chunk.js.map",
     "index.html": "/gbpages_practice/index.html",
-    "precache-manifest.f677cc9b76180c6eb0991c75358ab507.js": "/gbpages_practice/precache-manifest.f677cc9b76180c6eb0991c75358ab507.js",
+    "precache-manifest.33dfef1631aad01d64b1594c546fa2a3.js": "/gbpages_practice/precache-manifest.33dfef1631aad01d64b1594c546fa2a3.js",
     "service-worker.js": "/gbpages_practice/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/gbpages_practice/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.a751668b.chunk.js.LICENSE.txt": "/gbpages_practice/static/js/2.a751668b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.34892078.js",
     "static/js/2.a751668b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.25538ee4.chunk.js"
+    "static/js/main.b5831cd1.chunk.js"
   ]
 }
