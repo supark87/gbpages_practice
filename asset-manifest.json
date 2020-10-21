@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gbpages_practice/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gbpages_practice/static/js/main.b5831cd1.chunk.js",
-    "main.js.map": "/gbpages_practice/static/js/main.b5831cd1.chunk.js.map",
-    "runtime-main.js": "/gbpages_practice/static/js/runtime-main.34892078.js",
-    "runtime-main.js.map": "/gbpages_practice/static/js/runtime-main.34892078.js.map",
-    "static/js/2.a751668b.chunk.js": "/gbpages_practice/static/js/2.a751668b.chunk.js",
-    "static/js/2.a751668b.chunk.js.map": "/gbpages_practice/static/js/2.a751668b.chunk.js.map",
-    "index.html": "/gbpages_practice/index.html",
-    "precache-manifest.33dfef1631aad01d64b1594c546fa2a3.js": "/gbpages_practice/precache-manifest.33dfef1631aad01d64b1594c546fa2a3.js",
-    "service-worker.js": "/gbpages_practice/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/gbpages_practice/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a751668b.chunk.js.LICENSE.txt": "/gbpages_practice/static/js/2.a751668b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/gbpages_practice/static/media/logo.5d5d9eef.svg"
+    "main.css": "/git_cheatsheet//static/css/main.5f361e03.chunk.css",
+    "main.js": "/git_cheatsheet//static/js/main.7b508735.chunk.js",
+    "main.js.map": "/git_cheatsheet//static/js/main.7b508735.chunk.js.map",
+    "runtime-main.js": "/git_cheatsheet//static/js/runtime-main.5af74dba.js",
+    "runtime-main.js.map": "/git_cheatsheet//static/js/runtime-main.5af74dba.js.map",
+    "static/js/2.a751668b.chunk.js": "/git_cheatsheet//static/js/2.a751668b.chunk.js",
+    "static/js/2.a751668b.chunk.js.map": "/git_cheatsheet//static/js/2.a751668b.chunk.js.map",
+    "index.html": "/git_cheatsheet//index.html",
+    "precache-manifest.6f8056e9494a36c3398e8d2735f8bbf6.js": "/git_cheatsheet//precache-manifest.6f8056e9494a36c3398e8d2735f8bbf6.js",
+    "service-worker.js": "/git_cheatsheet//service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/git_cheatsheet//static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a751668b.chunk.js.LICENSE.txt": "/git_cheatsheet//static/js/2.a751668b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/git_cheatsheet//static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.34892078.js",
+    "static/js/runtime-main.5af74dba.js",
     "static/js/2.a751668b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b5831cd1.chunk.js"
+    "static/js/main.7b508735.chunk.js"
   ]
 }
